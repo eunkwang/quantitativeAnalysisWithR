@@ -5,10 +5,10 @@ date: '2017 7 9 '
 output: html_document
 ---
 
-```{r setup, echo = FALSE, include=FALSE}
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ## 문서 개요
 
-본 문서는 R프로그램에 기반한 최적화 및 계량분석 책 내용을 실습하기 위해 작성하였음
+본 문서는 R프로그램에 기반한 최적화 및 계량분석 책 내용을 실습하기 위해 작성하였음    
 따라서 문서에서 사용하는 모든 코드는 학습만을 목적으로 함
