@@ -18,7 +18,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ff <- function(x) {x^3-3}
 
 uniroot(ff, c(0,2))
-
 polyroot(c(-3, 0, 0, 1))
 
 ```
