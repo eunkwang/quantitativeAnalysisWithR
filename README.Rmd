@@ -1,0 +1,13 @@
+---
+title: "README"
+author: "Eunkwang"
+date: '2017 7 9 '
+output: html_document
+---
+
+```{r setup, echo = FALSE, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## 문서 개요
+
+본 문서는 R프로그램에 기반한 최적화 및 계량분석 책 내용을 실습하기 위해 작성하였음
